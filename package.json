@@ -3,7 +3,8 @@
   "displayName": "Jetbrains like Dark Theme with Gruvbox-ish Scheme",
   "description": "Color theme based on the new Jetbrains Dark, with Gruvbox (like) syntax highlight.",
   "version": "1.0.0",
-  "icon": "https://private-user-images.githubusercontent.com/10261/379311108-6138fa13-7bdc-405e-8be0-a467168fbf42.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2OTMxODQsIm5iZiI6MTcyOTY5Mjg4NCwicGF0aCI6Ii8xMDI2MS8zNzkzMTExMDgtNjEzOGZhMTMtN2JkYy00MDVlLThiZTAtYTQ2NzE2OGZiZjQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDE0MTQ0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmMDI0N2RiZGEyYjA0YjUzYmFjYmE2Yjk1OWE4NjA3MmNhMTQwMTkxOGIxMjhiYzQ3ZDI2MmY2MTYxYmI2MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BJJuiMZJvAfyr1eLsbJas9Ly6EC2aOz_79XInPau8H8",
+  "icon": "_assets/icon.png",
+  "repository": "https://github.com/xupisco/vscode-jetbrains-like-theme",
   "engines": {
     "vscode": "^1.94.0"
   },
