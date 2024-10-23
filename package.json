@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "icon": "_assets/icon.png",
   "repository": "https://github.com/xupisco/vscode-jetbrains-like-theme",
+  "publisher": "LeandroVoltolino",
   "engines": {
     "vscode": "^1.94.0"
   },
