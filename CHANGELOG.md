@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "jetbrains-like-dark-theme-with-gruvbox-ish-scheme" extension will be documented in this file.
+Let's make it better... always!
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.2]
+- Minor tweaks
 
-## [Unreleased]
+## [1.0.0]
 
 - Initial release
