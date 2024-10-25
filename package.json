@@ -2,7 +2,7 @@
   "name": "jetbrains-like-dark-theme-with-gruvbox-ish-scheme",
   "displayName": "Jetbrains like Dark Theme with Gruvbox-ish Scheme",
   "description": "Color theme based on the new Jetbrains Dark, with Gruvbox (like) syntax highlight.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "_assets/icon.png",
   "repository": "https://github.com/xupisco/vscode-jetbrains-like-theme",
   "publisher": "LeandroVoltolino",
