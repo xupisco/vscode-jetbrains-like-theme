@@ -6,6 +6,7 @@ Let's make it better... always!
 - Better git colors on file tree
 - Better integrated terminal bg color
 - Slightly dimmed status FG color
+- Updated terminal ansi colors
 
 ## [1.0.4] - 2024-10-25
 - Updated status bar default colors
