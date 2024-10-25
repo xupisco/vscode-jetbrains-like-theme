@@ -2,6 +2,9 @@
 
 Let's make it better... always!
 
+## [1.0.4] - 2024-10-25
+- Updated status bar default colors
+
 ## [1.0.3] - 2024-10-25
 - New overview foreground colors
 - New text and token selection colors
