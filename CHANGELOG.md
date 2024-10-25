@@ -2,6 +2,10 @@
 
 Let's make it better... always!
 
+## [1.0.7] - 2024-10-25
+- Slightly brighter json key names (support.type.property-name.json)
+- Changed debug status bar color
+
 ## [1.0.6] - 2024-10-25
 - Better integrated terminal bg color
 

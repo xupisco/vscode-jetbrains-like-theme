@@ -407,9 +407,9 @@
 		"sideBarTitle.foreground": "#e2e2e2",
 		"statusBar.background": "#2b2d30",
 		"statusBar.border": "#ffffff00",
-		"statusBar.debuggingBackground": "#f7533e",
+		"statusBar.debuggingBackground": "#ad3730",
 		"statusBar.debuggingBorder": "#ffffff00",
-		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.debuggingForeground": "#ffffff90",
 		"statusBar.focusBorder": "#ffffff00",
 		"statusBar.foreground": "#888888",
 		"statusBar.noFolderBackground": "#2b2d30",
@@ -470,7 +470,7 @@
 		"tab.border": "#25252600",
 		"tab.hoverBackground": "#1e1f22",
 		"tab.hoverBorder": "#007acc00",
-		"tab.hoverForeground": "#d4be98",
+		"tab.hoverForeground": "#eeeeee",
 		"tab.inactiveBackground": "#1e1f2200",
 		"tab.inactiveForeground": "#ffffff80",
 		"tab.inactiveModifiedBorder": "#2e436e",
@@ -558,7 +558,7 @@
 		//"commandCenter.activeForeground": "#cccccc",
 		//"commandCenter.background": "#ffffff0d",
 		//"commandCenter.border": "#cccccc33",
-		//"commandCenter.debuggingBackground": "#f7533e42",
+		//"commandCenter.debuggingBackground": "#ad373042",
 		//"commandCenter.foreground": "#cccccc",
 		//"commandCenter.inactiveBorder": "#cccccc26",
 		//"commandCenter.inactiveForeground": "#cccccc99",
@@ -2533,7 +2533,7 @@
 		{
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#E78A4E"
+				"foreground": "#e0c080"
 			}
 		},
 		{
@@ -2619,6 +2619,12 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
+			}
+		},
+		{
+			"scope": "ref.matchtext",
+			"settings": {
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
