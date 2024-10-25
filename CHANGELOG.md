@@ -2,9 +2,11 @@
 
 Let's make it better... always!
 
+## [1.0.6] - 2024-10-25
+- Better integrated terminal bg color
+
 ## [1.0.5] - 2024-10-25
 - Better git colors on file tree
-- Better integrated terminal bg color
 - Slightly dimmed status FG color
 - Updated terminal ansi colors
 
