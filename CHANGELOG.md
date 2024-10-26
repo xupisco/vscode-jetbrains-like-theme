@@ -2,6 +2,11 @@
 
 Let's make it better... always!
 
+## [1.0.8] - 2024-10-26
+- Better debug toolbar color
+- Fixed breadcrumb BG color
+- New screenshots
+
 ## [1.0.7] - 2024-10-25
 - Slightly brighter json key names (support.type.property-name.json)
 - Changed debug status bar color

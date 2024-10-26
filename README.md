@@ -2,12 +2,30 @@
 
 ### Simple and clean dark theme based on Jetbrains new dark UI
 
-Hope someone else like it! :)
+Hope someone else like it! :)  
+Some custom settings I use (as see in screenshots).
 
-![](https://i.imgur.com/9PUCCKz.png)
+    "editor.fontFamily": "MesloLGM Nerd Font",
+    "editor.fontSize": 12,
+    "editor.fontWeight": "normal",
+    "editor.lineHeight": 18,
 
-![](https://i.imgur.com/FV1G2Eg.png)
+Grab font [here](https://www.nerdfonts.com/font-downloads)!
 
-![](https://i.imgur.com/fhOqm9C.png)
+<center>Main window</center>
+
+![](https://i.imgur.com/ZOiGUfQ.png)
+
+<center>Debugging</center>
+
+![](https://i.imgur.com/fq4AvzC.png)
+
+<center>Peek view</center>
+
+![](https://i.imgur.com/2UkzMsz.png)
+
+<center>Integrated terminal open</center>
+
+![](https://i.imgur.com/UUI2fJ1.png)
 
 **Enjoy!**

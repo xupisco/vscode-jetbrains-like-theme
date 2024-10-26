@@ -16,8 +16,8 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"breadcrumb.background": "#1e1f22",
 		"breadcrumb.focusForeground": "#e0e0e0",
-		"breadcrumb.foreground": "#cccccccc",
-		"breadcrumbPicker.background": "#191919",
+		"breadcrumb.foreground": "#666666",
+		"breadcrumbPicker.background": "#2b2d30",
 		"button.background": "#2e436e",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#1177bb",
@@ -64,8 +64,8 @@
 		"debugTokenExpression.number": "#d3869b",
 		"debugTokenExpression.string": "#d8a657",
 		"debugTokenExpression.value": "#a9b665",
-		"debugToolBar.background": "#333333",
-		"debugToolBar.border": "#474747",
+		"debugToolBar.background": "#553939",
+		"debugToolBar.border": "#453a3a",
 		"descriptionForeground": "#928374",
 		"diffEditor.border": "#2b2d3000",
 		"diffEditor.diagonalFill": "#504945",
@@ -99,6 +99,7 @@
 		"editor.snippetFinalTabstopHighlightBackground": "#8f9a5240",
 		"editor.snippetFinalTabstopHighlightBorder": "#292828",
 		"editor.snippetTabstopHighlightBackground": "#45403da0",
+		"editor.stackFrameHighlightBackground": "#ad36305a",
 		"editor.symbolHighlightBackground": "#68948a40",
 		"editor.wordHighlightBackground": "#3a688761",
 		"editor.wordHighlightStrongBackground": "#3a6887dd",
@@ -209,7 +210,7 @@
 		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
 		"gitDecoration.deletedResourceForeground": "#fd6f6fd8",
 		"gitDecoration.ignoredResourceForeground": "#ffffff30",
-		"gitDecoration.modifiedResourceForeground": "#6a89cd",
+		"gitDecoration.modifiedResourceForeground": "#5a78b7",
 		"gitDecoration.renamedResourceForeground": "#a4def5",
 		"gitDecoration.stageDeletedResourceForeground": "#c74e39",
 		"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
@@ -585,7 +586,6 @@
 		//"editor.inlineValuesForeground": "#ffffff80",
 		//"editor.linkedEditingBackground": "#ff00004d",
 		//"editor.placeholder.foreground": "#7c6f64",
-		//"editor.stackFrameHighlightBackground": "#ffff0033",
 		//"editorActionList.background": "#2b2d30",
 		//"editorActionList.focusBackground": "#2e436e",
 		//"editorActionList.focusForeground": "#eeeeee",
@@ -2533,7 +2533,7 @@
 		{
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#e0c080"
+				"foreground": "#E0C080"
 			}
 		},
 		{
@@ -2619,6 +2619,12 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
+			}
+		},
+		{
+			"scope": "ref.matchtext",
+			"settings": {
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
