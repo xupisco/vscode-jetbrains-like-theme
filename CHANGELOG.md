@@ -2,6 +2,10 @@
 
 Let's make it better... always!
 
+## [1.0.9] - 2024-10-26
+- Fixed new copilot chat colors
+- Better colors for settings and keybings windows
+
 ## [1.0.8] - 2024-10-26
 - Better debug toolbar color
 - Fixed breadcrumb BG color
