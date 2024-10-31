@@ -2,6 +2,12 @@
 
 Let's make it better... always!
 
+## [1.1.0] - 2024-10-31
+- Status bar foreground without any open folder
+- Dimmed unfocused line number
+- Dimmed modified tab top border
+- Fixed notifications borders
+
 ## [1.0.9] - 2024-10-26
 - Fixed new copilot chat colors
 - Better colors for settings and keybings windows
