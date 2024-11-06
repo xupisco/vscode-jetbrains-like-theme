@@ -246,7 +246,7 @@
 		"gitlens.unpulledChangesIconColor": "#e78a4e",
 		"icon.foreground": "#cccccc",
 		"inlineChat.border": "#1e1f22",
-		"inlineChat.foreground": "#ff0000",
+		"inlineChat.foreground": "#e9dec2",
 		"input.background": "#1e1f22",
 		"input.border": "#00000000",
 		"input.foreground": "#ffffff",
@@ -265,9 +265,9 @@
 		"inputValidation.warningForeground": "#d4be98",
 		"issues.closed": "#ea6962",
 		"issues.open": "#89b482",
-		"keybindingLabel.background": "#29282800",
-		"keybindingLabel.border": "#1c1c1c",
-		"keybindingLabel.bottomBorder": "#101010",
+		"keybindingLabel.background": "#1e1f22",
+		"keybindingLabel.border": "#1e1f22",
+		"keybindingLabel.bottomBorder": "#1e1f22",
 		"keybindingLabel.foreground": "#d4be98",
 		"keybindingTable.headerBackground": "#2b2d30",
 		"keybindingTable.rowsBackground": "#2b2d307e",
@@ -2627,6 +2627,12 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
+			}
+		},
+		{
+			"scope": "ref.matchtext",
+			"settings": {
+				"foreground": "#FFFFFF"
 			}
 		},
 		{

@@ -2,6 +2,9 @@
 
 Let's make it better... always!
 
+## [1.1.0] - 2024-11-06
+- Fixed copilot chat foreground color
+
 ## [1.1.0] - 2024-10-31
 - Status bar foreground without any open folder
 - Dimmed unfocused line number
